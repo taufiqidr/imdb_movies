@@ -1,0 +1,1 @@
+pindahkan semua tipe/interface ke folder tersendiri
